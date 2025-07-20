@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "ryder",
-    "slug": "ryder",
+    "name": "ryde",
+    "slug": "ryde",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "ryder",
+    "scheme": "ryde",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
